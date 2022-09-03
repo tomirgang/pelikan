@@ -85,7 +85,7 @@ Im Header-Block
         </div>
 ```
 
-Vor dem "</body>"-Tag:
+Vor dem "closing body"-Tag:
 
 ```HTML
     <!-- Stork search -->
