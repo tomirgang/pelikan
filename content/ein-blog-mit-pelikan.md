@@ -100,3 +100,7 @@ Vor dem "</body>"-Tag:
 
 - Abhängigkeiten dokumentieren: `pip freeze > dependencies.txt`
 - .gitignore erstellen ([Generator](https://www.toptal.com/developers/gitignore): Python, Linux, Windows, macOS, VisualStudioCode)
+- output ignorieren
+- Git-Repo initialisieren: `git init .`
+- Main-Branch: `git checkout -b main`
+- Inhalt commiten: `git add .; git commit -a`
